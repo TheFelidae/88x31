@@ -61,6 +61,15 @@ Here's a list of badges that are currently available:
 | ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | `./images/pride/badge_transmasc.gif` |
 | ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | `./images/pride/badge_plural.gif` |
 
+### Pronouns
+
+| Badge | Name | Description | URL |
+| --- | --- | --- | --- |
+| ![He/Him](./images/pronouns/badge_he_him.png) | He/Him | A badge representing the pronouns "He/Him". | `./images/pronouns/badge_he_him.png` |
+| ![She/Her](./images/pronouns/badge_she_her.png) | She/Her | A badge representing the pronouns "She/Her". | `./images/pronouns/badge_she_her.png` |
+| ![They/Them](./images/pronouns/badge_they_them.png) | They/Them | A badge representing the pronouns "They/Them". | `./images/pronouns/badge_they_them.png` |
+| ![It/Its](./images/pronouns/badge_it_its.png) | It/Its | A badge representing the pronouns "It/Its". | `./images/pronouns/badge_it_its.png` |
+
 ## License
 
 This project is dedicated to the public domain under the [Unlicense](https://unlicense.org/). You are free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
