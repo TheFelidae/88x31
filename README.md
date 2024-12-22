@@ -54,6 +54,7 @@ Here's a list of badges that are currently available:
 | Badge | Name | Description | URL |
 | --- | --- | --- | --- |
 | ![Pride](./images/pride/badge_pride.png) | Pride | A badge representing the LGBTQ+ community. | `./images/pride/badge_pride.png` |
+| ![Progress Pride](./images/pride/badge_progress.png) | Progress Pride | A badge representing the LGBTQ+ community, with the addition of the black and brown stripes to represent people of color, with further colors reinforcing the representation of communities. | `./images/pride/badge_progress.png` |
 | ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. | `./images/pride/badge_transgender.gif` |
 | ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. | `./images/pride/badge_nonbinary.gif` |
 | ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. | `./images/pride/badge_transfem.gif` |
