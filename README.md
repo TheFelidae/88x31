@@ -23,16 +23,16 @@ To use these badges, simply find the one you want to use, copy its URL, and use 
 
 - Markdown
 
-> ```markdown
+> `markdown
 > [![Badge](<My Badge URL>)](
 >
 
 - HTML
 
-> ```html
+> `html
 >   <!-- You can optionally enclose it in an <a> tag to add a hyperlink -->
 >   <img src="<My Badge URL>" alt="Badge">
-> ```
+> `
 
 ## Contributing
 
@@ -53,23 +53,23 @@ Here's a list of badges that are currently available:
 
 | Badge | Name | Description | URL |
 | --- | --- | --- | --- |
-| ![Pride](./images/pride/badge_pride.png) | Pride | A badge representing the LGBTQ+ community. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_pride.png?raw=true` |
-| ![Progress Pride](./images/pride/badge_progress.png) | Progress Pride | A badge representing the LGBTQ+ community, with the addition of the black and brown stripes to represent people of color, with further colors reinforcing the representation of communities. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_progress.png?raw=true` |
-| ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_transgender.gif?raw=true` |
-| ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_transfem.gif?raw=true` |
-| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_transmasc.gif?raw=true` |
-| ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_nonbinary.gif?raw=true` |
-| ![Agender](./images/pride/badge_agender.gif) | Agender | A badge representing those who do not identify with any gender, or identify as genderless. | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_agender.gif?raw=true` |
-| ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pride/badge_plural.gif?raw=true` |
+| ![Pride](./images/pride/badge_pride.png) | Pride | A badge representing the LGBTQ+ community. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_pride.png?raw=true` |
+| ![Progress Pride](./images/pride/badge_progress.png) | Progress Pride | A badge representing the LGBTQ+ community, with the addition of the black and brown stripes to represent people of color, with further colors reinforcing the representation of communities. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_progress.png?raw=true` |
+| ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_transgender.gif?raw=true` |
+| ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_transfem.gif?raw=true` |
+| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_transmasc.gif?raw=true` |
+| ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_nonbinary.gif?raw=true` |
+| ![Agender](./images/pride/badge_agender.gif) | Agender | A badge representing those who do not identify with any gender, or identify as genderless. | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_agender.gif?raw=true` |
+| ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_plural.gif?raw=true` |
 
 ### Pronouns
 
 | Badge | Name | Description | URL |
 | --- | --- | --- | --- |
-| ![He/Him](./images/pronouns/badge_he_him.png) | He/Him | A badge representing the pronouns "He/Him". | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pronouns/badge_he_him.png?raw=true` |
-| ![She/Her](./images/pronouns/badge_she_her.png) | She/Her | A badge representing the pronouns "She/Her". | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pronouns/badge_she_her.png?raw=true` |
-| ![They/Them](./images/pronouns/badge_they_them.png) | They/Them | A badge representing the pronouns "They/Them". | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pronouns/badge_they_them.png?raw=true` |
-| ![It/Its](./images/pronouns/badge_it_its.png) | It/Its | A badge representing the pronouns "It/Its". | ``https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main//images/pronouns/badge_it_its.png?raw=true` |
+| ![He/Him](./images/pronouns/badge_he_him.png) | He/Him | A badge representing the pronouns "He/Him". | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pronouns/badge_he_him.png?raw=true` |
+| ![She/Her](./images/pronouns/badge_she_her.png) | She/Her | A badge representing the pronouns "She/Her". | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pronouns/badge_she_her.png?raw=true` |
+| ![They/Them](./images/pronouns/badge_they_them.png) | They/Them | A badge representing the pronouns "They/Them". | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pronouns/badge_they_them.png?raw=true` |
+| ![It/Its](./images/pronouns/badge_it_its.png) | It/Its | A badge representing the pronouns "It/Its". | `https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pronouns/badge_it_its.png?raw=true` |
 
 ## License
 
