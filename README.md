@@ -1,4 +1,4 @@
-# Eighty Eight Badges
+# 88x31 Badges
 
 A collection of 88x31 badges for use in... Whatever you want to use them for!
 
