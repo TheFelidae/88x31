@@ -55,23 +55,23 @@ Right-click on the badge you want to use and select "Copy Image Address" to get 
 
 | Badge | Name | Description |
 | --- | --- | --- |
-| <img src="./images/pride/badge_pride.png" height="55" /> | Pride | A badge representing the LGBTQ+ community. |
-| <img src="./images/pride/badge_progress.png" height="55" /> | Progress Pride | A badge representing the LGBTQ+ community, with the addition of the black and brown stripes to represent people of color, with further colors reinforcing the representation of communities. | 
-| <img src="./images/pride/badge_transgender.gif" height="55" /> | Transgender | A badge representing those who do not identify with their assigned gender at birth. | 
-| <img src="./images/pride/badge_transfem.gif" height="55" /> | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. |
-| <img src="./images/pride/badge_transmasc.gif" height="55" /> | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | 
-| <img src="./images/pride/badge_nonbinary.gif" height="55" /> | Nonbinary | A badge representing those who do not identify with the binary genders. |
-| <img src="./images/pride/badge_agender.gif" height="55" /> | Agender | A badge representing those who do not identify with any gender, or identify as genderless. | 
-| <img src="./images/pride/badge_plural.gif" height="55" /> | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | 
+| <img src="./images/pride/badge_pride.png" height="44" /> | Pride | A badge representing the LGBTQ+ community. |
+| <img src="./images/pride/badge_progress.png" height="44" /> | Progress Pride | A badge representing the LGBTQ+ community, with the addition of the black and brown stripes to represent people of color, with further colors reinforcing the representation of communities. | 
+| <img src="./images/pride/badge_transgender.gif" height="44" /> | Transgender | A badge representing those who do not identify with their assigned gender at birth. | 
+| <img src="./images/pride/badge_transfem.gif" height="44" /> | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. |
+| <img src="./images/pride/badge_transmasc.gif" height="44" /> | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | 
+| <img src="./images/pride/badge_nonbinary.gif" height="44" /> | Nonbinary | A badge representing those who do not identify with the binary genders. |
+| <img src="./images/pride/badge_agender.gif" height="44" /> | Agender | A badge representing those who do not identify with any gender, or identify as genderless. | 
+| <img src="./images/pride/badge_plural.gif" height="44" /> | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | 
 
 ### Pronouns
 
 | Badge | Name | Description |
 | --- | --- | --- |
-| <img src="./images/pronouns/badge_he_him.png" height="55" /> | He/Him | A badge representing the pronouns "He/Him". |
-| <img src="./images/pronouns/badge_she_her.png" height="55" /> | She/Her | A badge representing the pronouns "She/Her". |
-| <img src="./images/pronouns/badge_they_them.png" height="55" /> | They/Them | A badge representing the pronouns "They/Them". |
-| <img src="./images/pronouns/badge_it_its.png" height="55" /> | It/Its | A badge representing the pronouns "It/Its". |
+| <img src="./images/pronouns/badge_he_him.png" height="44" /> | He/Him | A badge representing the pronouns "He/Him". |
+| <img src="./images/pronouns/badge_she_her.png" height="44" /> | She/Her | A badge representing the pronouns "She/Her". |
+| <img src="./images/pronouns/badge_they_them.png" height="44" /> | They/Them | A badge representing the pronouns "They/Them". |
+| <img src="./images/pronouns/badge_it_its.png" height="44" /> | It/Its | A badge representing the pronouns "It/Its". |
 
 ## License
 
