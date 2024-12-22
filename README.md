@@ -11,7 +11,7 @@ A collection of 88x31 badges for use in... Whatever you want to use them for!
 
 In order to appear as authentic as possible, these badges are designed with the following limitations:
 
-- 256-color palette, used by Windows 95
+- 216-color Web Safe Colors palette, the de-facto standard for web graphics in the 90s
 - Indexed color mode
 - 88x31 resolution
 
