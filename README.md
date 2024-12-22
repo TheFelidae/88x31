@@ -56,7 +56,7 @@ Here's a list of badges that are currently available:
 | ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. | `./images/pride/badge_transgender.gif` |
 | ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. | `./images/pride/badge_nonbinary.gif` |
 | ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. | `./images/pride/badge_transfem.gif` |
-| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male, but identify as such. | `./images/pride/badge_transmasc.gif` |
+| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male at birth, but identify as such. | `./images/pride/badge_transmasc.gif` |
 | ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | `./images/pride/badge_plural.gif` |
 
 ## License
