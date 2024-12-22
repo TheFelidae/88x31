@@ -51,13 +51,13 @@ Here's a list of badges that are currently available:
 <!-- Non-binary people are valid :3 -->
 <!-- Get over it >:3 -->
 
-| Badge | Name | Description |
-| --- | --- | --- |
-| ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. |
-| ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. |
-| ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. |
-| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male, but identify as such. |
-| ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) |
+| Badge | Name | Description | URL |
+| --- | --- | --- | --- |
+| ![Transgender](./images/pride/badge_transgender.gif) | Transgender | A badge representing those who do not identify with their assigned gender at birth. | `./images/pride/badge_transgender.gif` |
+| ![Nonbinary](./images/pride/badge_nonbinary.gif) | Nonbinary | A badge representing those who do not identify with the binary genders. | `./images/pride/badge_nonbinary.gif` |
+| ![Transfeminine](./images/pride/badge_transfem.gif) | Transfeminine | A badge representing those who were initially assigned not as female at birth, but identify as such. | `./images/pride/badge_transfem.gif` |
+| ![Transmasculine](./images/pride/badge_transmasc.gif) | Transmasculine | A badge representing those who were initially assigned not as male, but identify as such. | `./images/pride/badge_transmasc.gif` |
+| ![Plural](./images/pride/badge_plural.gif) | Plural | A badge representing those who are [plural systems.](https://pluralpedia.org/w/Plurality) | `./images/pride/badge_plural.gif` |
 
 ## License
 
