@@ -21,6 +21,7 @@ Right-click on the badge you want to use and select "Copy Image Address" to get 
 | <img src="./images/pride/badge_nonbinary.gif" height="88" /> | Nonbinary | Those who do not identify with the binary genders. |
 | <img src="./images/pride/badge_agender.gif" height="88" /> | Agender | Those who do not identify with any gender, or identify as genderless. | 
 | <img src="./images/pride/badge_plural.gif" height="88" /> | Plural | Those who are [plural systems.](https://pluralpedia.org/w/Plurality) | 
+| <img src="./images/pride/badge_pansexual.gif" height="88" /> | Pansexual | Those who are attracted to people regardless of gender identity. |
 
 ### Pronouns
 
