@@ -21,6 +21,7 @@ Right-click on the badge you want to use and select "Copy Image Address" to get 
 | <img src="./images/pride/badge_nonbinary.gif" height="88" /> | Nonbinary | Those who do not identify with the binary genders. |
 | <img src="./images/pride/badge_agender.gif" height="88" /> | Agender | Those who do not identify with any gender, or identify as genderless. | 
 | <img src="./images/pride/badge_plural.gif" height="88" /> | Plural | Those who are [plural systems.](https://pluralpedia.org/w/Plurality) | 
+| <img src="./images/pride/badge_lesbian.gif" height="88" /> | Lesbian | Women who are attracted to other women. |
 | <img src="./images/pride/badge_pansexual.gif" height="88" /> | Pansexual | Those who are attracted to people regardless of gender identity. |
 | <img src="./images/pride/badge_bisexual.gif" height="88" /> | Bisexual | Those who are attracted to both binary genders, or more than one gender, etc. |
 | <img src="./images/pride/badge_asexual.gif" height="88" /> | Asexual | Those who experience seldom to no sexual attraction. |
