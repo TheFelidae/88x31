@@ -47,3 +47,9 @@ If you know how to improve the badges, or skills I need to learn, please let me 
 | <img src="./images/pronouns/badge_she_her.png" height="62" width="172" /> | The pronouns "She/Her". |
 | <img src="./images/pronouns/badge_they_them.png" height="62" width="172" /> | The pronouns "They/Them". |
 | <img src="./images/pronouns/badge_it_its.png" height="62" width="172" /> | The pronouns "It/Its". |
+
+### Politics
+
+| Badge | Description |
+| --- | --- |
+| <img src="./images/political/badge_ukraine_defend.png" height="62" width="172" /> | Support for Ukraine in the face of Russian aggression. |
