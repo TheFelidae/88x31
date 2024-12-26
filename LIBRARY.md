@@ -4,11 +4,17 @@ Here's a list of badges that are currently available.
 
 Right-click on the badge you want to use and select "Copy Image Address" to get the URL.
 
+I'm not entirely satisfied with some of the badges, so I might update them in the future.
+If you have any suggestions for new badges, feel free to open an issue or a pull request.
+Also, I'm still learning and am not a professional artists - so please be patient with me.
+If you know how to improve the badges, or skills I need to learn, please let me know!
+
 ### Software
 
 | Badge | Description |
 | --- | --- |
 | <img src="./images/software/badge_aseprite_madewith.png" height="62" width="172" /> | Made with Aseprite. |
+| <img src="./images/software/badge_godot_madewith.png" height="62" width="172" /> | Made with Godot Engine. |
 
 ### Pride
 
