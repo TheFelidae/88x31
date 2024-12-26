@@ -1,5 +1,7 @@
 # 88x31 Badges
 
+![Made with Aseprite!](./images/software/badge_aseprite_madewith.png)
+
 A collection of 88x31 badges for use in... Whatever you want to use them for!
 
 - Software tagging!

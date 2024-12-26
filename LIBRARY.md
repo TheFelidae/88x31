@@ -4,6 +4,12 @@ Here's a list of badges that are currently available.
 
 Right-click on the badge you want to use and select "Copy Image Address" to get the URL.
 
+### Software
+
+| Badge | Description |
+| --- | --- |
+| <img src="./images/software/badge_aseprite_madewith.png" height="62" width="172" /> | Made with Aseprite. |
+
 ### Pride
 
 <!-- Trans women are women :3-->
